@@ -1,7 +1,7 @@
 # Action-Angle-Schwarzschild
 Mathematica notebooks and .m files accompanying the paper on Action-angle coordinates in Schwarzschild space-time.
 
-*If you use these notebooks in any way, please cite the accompanying paper. (Witzany 2022, to be sent to MNRAS, please check later for paper details.)*
+***If you use these notebooks in any way, please cite the accompanying paper. (Witzany 2022, to be sent to MNRAS, please check later for paper details.)***
 
 ## Description of files
 
