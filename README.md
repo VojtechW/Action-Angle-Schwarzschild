@@ -2,6 +2,7 @@
 Mathematica notebooks and .m files accompanying the paper on Action-angle coordinates for bound geodesics in Schwarzschild space-time.
 
 ***If you use these notebooks in any way, please cite the accompanying paper:*** 
+
 Witzany, V. (2022). Action-angle coordinates for black-hole geodesics I: Spherically symmetric and Schwarzschild. arXiv:2203.11952
 (Submitted to MNRAS, please check later for details on publication in print)
 
